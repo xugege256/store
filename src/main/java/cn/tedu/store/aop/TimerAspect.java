@@ -26,6 +26,8 @@ public class TimerAspect {
 		
 		// 返回连接点方法的返回值
 		return result;
+
+		//这是一个测试注释
 	}
 	
 }
